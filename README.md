@@ -1,4 +1,4 @@
-# E-commerce Sales Analysis
+# Sales Data Analysis
 
 ## Project Overview
 
